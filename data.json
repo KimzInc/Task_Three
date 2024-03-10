@@ -1,0 +1,19 @@
+{
+  "Company": "XYZ Inc",
+  "Year": 2022,
+  "sales_data":{
+    "January": 100000,
+    "February": 80000,
+    "March": 150000,
+    "April": 140000,
+    "May": 160000,
+    "June": 200000,
+    "July": 250000,
+    "August": 150000,
+    "September": 100000,
+    "October": 119000,
+    "November": 80000,
+    "December": 170000
+
+  }
+}
